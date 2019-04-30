@@ -11,23 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/RemoveIf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/TransformStreamConsumer.java">
+        <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/SortCollectionStreamAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="196">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,16 +65,34 @@
         <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/RemoveIf.java" />
         <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/TransformStream.java" />
         <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/TransformStreamConsumer.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/FunctionInterface.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/LambdaEx1.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/FunctionsEx1.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/GenerateBooleans.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/GenerateValues.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/StreamEx1.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/StreamPredicateEx1.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/AtomicGenerate.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/BiFunctionPredicate.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/ABSNumbers.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/ExtractDataFromStream.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/SearchDataStream.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/OptionalEx.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/DataCalculationMethodsStream.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/FactorialStream.java" />
+        <option value="$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/SortCollectionStreamAPI.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="406" />
     <option name="y" value="77" />
     <option name="width" value="997" />
     <option name="height" value="629" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -112,6 +118,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classe" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OCP-Codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrjOCP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="classe" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +132,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556557919790" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556578733942" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -135,13 +148,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveIf">
-    <configuration name="FilteringCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap4.generics.collections.FilteringCollection" />
+  <component name="RunManager" selected="Application.SortCollectionStreamAPI">
+    <configuration name="DataCalculationMethodsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap6.stream.api.DataCalculationMethodsStream" />
       <module name="OCP-Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.classe.cap4.generics.collections.*" />
+          <option name="PATTERN" value="ocp.classe.cap6.stream.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap5.lambda.functional.RemoveIf" />
+    <configuration name="FactorialStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap6.stream.api.FactorialStream" />
       <module name="OCP-Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.classe.cap5.lambda.functional.*" />
+          <option name="PATTERN" value="ocp.classe.cap6.stream.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsLevelsOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap4.generics.collections.StreamsLevelsOperation" />
+    <configuration name="OptionalEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap6.stream.api.OptionalEx" />
       <module name="OCP-Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.classe.cap4.generics.collections.*" />
+          <option name="PATTERN" value="ocp.classe.cap6.stream.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsPipelineComponents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap4.generics.collections.StreamsPipelineComponents" />
+    <configuration name="SearchDataStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap6.stream.api.SearchDataStream" />
       <module name="OCP-Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.classe.cap4.generics.collections.*" />
+          <option name="PATTERN" value="ocp.classe.cap6.stream.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsSources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap4.generics.collections.StreamsSources" />
+    <configuration name="SortCollectionStreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.classe.cap6.stream.api.SortCollectionStreamAPI" />
       <module name="OCP-Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.classe.cap4.generics.collections.*" />
+          <option name="PATTERN" value="ocp.classe.cap6.stream.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveIf" />
-        <item itemvalue="Application.FilteringCollection" />
-        <item itemvalue="Application.StreamsSources" />
-        <item itemvalue="Application.StreamsPipelineComponents" />
-        <item itemvalue="Application.StreamsLevelsOperation" />
+        <item itemvalue="Application.SortCollectionStreamAPI" />
+        <item itemvalue="Application.FactorialStream" />
+        <item itemvalue="Application.DataCalculationMethodsStream" />
+        <item itemvalue="Application.OptionalEx" />
+        <item itemvalue="Application.SearchDataStream" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +238,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20681818" />
@@ -237,7 +250,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24717286" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36833602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,20 +503,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/RemoveIf.java">
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/TransformStreamConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/TransformStreamConsumer.java">
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/RemoveIf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/FunctionInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/LambdaEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/FunctionsEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/GenerateValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/StreamPredicateEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/AtomicGenerate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/ABSNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap5/lambda/functional/BiFunctionPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/ExtractDataFromStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/SearchDataStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/OptionalEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/DataCalculationMethodsStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/FactorialStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/classe/cap6/stream/api/SortCollectionStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
